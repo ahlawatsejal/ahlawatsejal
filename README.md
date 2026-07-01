@@ -16,7 +16,7 @@ Building software that solves real-world problems with clean architecture and sc
 
 ---
 
-## 👩‍💻 About Me
+ 👩‍💻 About Me
 
 - 🎓 Computer Science Undergraduate at **Lovely Professional University**
 - 💻 Passionate about **Backend Development** and **Full Stack Web Development**
@@ -28,7 +28,7 @@ Building software that solves real-world problems with clean architecture and sc
 
 ---
 
-## 🚀 Current Focus
+🚀 Current Focus
 
 - 🌾 Farm Grid – Electricity Management Platform
 - ♻️ Eco Haul – Waste Management Platform
@@ -60,15 +60,15 @@ Building software that solves real-world problems with clean architecture and sc
 
 ---
 
-# 💻 Tech Stack
+💻 Tech Stack
 
-### Languages
+Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
 </p>
 
-### Frontend
+Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
@@ -94,9 +94,9 @@ Building software that solves real-world problems with clean architecture and sc
 
 ---
 
-# 🌟 Featured Projects
+ 🌟 Featured Projects
 
-## 🌾 Farm Grid
+🌾 Farm Grid
 
 Electricity Management Platform for Farmers
 
@@ -110,7 +110,7 @@ Electricity Management Platform for Farmers
 
 ---
 
-## ♻️ Eco Haul
+ ♻️ Eco Haul
 
 Waste Management Platform
 
@@ -122,7 +122,7 @@ Waste Management Platform
 
 ---
 
-## 📚 Book Summarizer
+ 📚 Book Summarizer
 
 AI Powered Book Summarizer
 
@@ -136,7 +136,7 @@ AI Powered Book Summarizer
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
 
@@ -148,7 +148,7 @@ AI Powered Book Summarizer
 
 ---
 
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
 
@@ -158,13 +158,13 @@ AI Powered Book Summarizer
 
 ---
 
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlawatsejal&theme=tokyo-night"/>
 
 ---
 
-# 🏆 Achievements
+🏆 Achievements
 
 🏅 Oracle Cloud Infrastructure AI Foundations Associate
 
@@ -180,7 +180,7 @@ AI Powered Book Summarizer
 
 ---
 
-# 📚 Currently Learning
+📚 Currently Learning
 
 - System Design
 - Dynamic Programming
@@ -191,7 +191,7 @@ AI Powered Book Summarizer
 
 ---
 
-# 🎯 Goals for 2026
+🎯 Goals for 2026
 
 ✅ Solve 300+ LeetCode Problems
 
@@ -205,7 +205,7 @@ AI Powered Book Summarizer
 
 ---
 
-## 💬 Quote
+ 💬 Quote
 
 > **"Good software isn't built by writing more code. It's built by solving the right problems."**
 
