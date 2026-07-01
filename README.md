@@ -1,131 +1,218 @@
- Hey, I'm Sejal 👋
+<h1 align="center">Hi 👋, I'm Sejal Ahlawat</h1>
 
-I'm a Computer Science undergraduate at Lovely Professional University who enjoys turning ideas into software that people can actually use.
+<h3 align="center">
+Backend Developer • Full Stack Developer • Problem Solver
+</h3>
 
-What excites me most about software engineering isn't just writing code—it's understanding the problem first and then designing a solution that's simple, scalable, and useful. Whether it's managing electricity schedules for farmers, improving waste collection workflows, or building an NLP-powered book summarizer, I enjoy creating applications that solve real-world challenges.
+<p align="center">
+Building software that solves real-world problems with clean architecture and scalable solutions.
+</p>
 
-Lately, I've been spending most of my time improving my problem-solving skills, exploring backend development, and learning how large-scale systems are designed.
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ahlawatsejal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+---
 
-🚀 What I'm Working On
+## 👩‍💻 About Me
 
-- 🌾 Building **Farm Grid**, an electricity management platform for farmers
-- 📚 Studying **System Design** and backend architecture
-- 💻 Practicing **Data Structures & Algorithms** on LeetCode
-- ☁️ Exploring cloud technologies and scalable application development
+- 🎓 Computer Science Undergraduate at **Lovely Professional University**
+- 💻 Passionate about **Backend Development** and **Full Stack Web Development**
+- 🌱 Currently learning **System Design**, **Dynamic Programming**, and **Cloud Computing**
+- 🚀 Building real-world software instead of tutorial projects
+- 🧩 Solved **150+ DSA Problems** on LeetCode
+- ☁️ Oracle AI Foundations Certified
+- 📫 Reach me at **sejalahlawat854@gmail.com**
 
+---
 
-💡 A Few Things About Me
+## 🚀 Current Focus
 
-- I enjoy backend development more than frontend design.
-- I like understanding *why* something works instead of memorizing it.
-- I believe clean code is just as important as working code.
-- I'm always looking for ways to improve the projects I've already built.
-- I enjoy breaking difficult problems into smaller, manageable pieces.
+- 🌾 Farm Grid – Electricity Management Platform
+- ♻️ Eco Haul – Waste Management Platform
+- 📚 Book Summarizer using NLP
+- 📖 Learning Advanced System Design
+- ⚡ Improving Problem Solving every day
 
+---
 
- 🛠 Tech Stack
-Languages
+## 🌐 Connect with Me
 
-C++ • Java • Python • C
+<p align="left">
+<a href="https://www.linkedin.com/in/sejalahlawat/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
-Web Development
+<a href="https://github.com/ahlawatsejal" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
-HTML • CSS • JavaScript • React • Node.js • Laravel • PHP
+<a href="YOUR_LEETCODE_LINK" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="42"/>
+</a>
 
-Databases
+<a href="mailto:sejalahlawat854@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</p>
 
-MySQL • MongoDB
+---
 
-Tools
+# 💻 Tech Stack
 
-Git • GitHub • VS Code • Postman
+### Languages
 
-📌 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+</p>
 
-🌾 Farm Grid
+### Frontend
 
-A full-stack electricity management platform designed to simplify power scheduling, complaint management, and communication between farmers, administrators, and government officials.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-Tech Stack
+### Backend
 
-Laravel • PHP • MySQL • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
+</p>
 
+### Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-♻️ Eco Haul
+### Tools
 
-A waste management platform that allows users to schedule pickups, monitor disposal status, and digitize waste management operations.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
-Tech Stack
+---
 
-PHP • MySQL • HTML • CSS • JavaScript
+# 🌟 Featured Projects
 
+## 🌾 Farm Grid
 
+Electricity Management Platform for Farmers
 
-📚 Book Summarizer
+✔ Role-Based Authentication
 
-An NLP-based application that generates concise summaries from uploaded books while providing a responsive and user-friendly interface.
+✔ Complaint Management
 
-Tech Stack
+✔ Power Scheduling
 
-Node.js • TypeScript • Tailwind CSS
+✔ Laravel + MySQL + Tailwind CSS
 
+---
 
+## ♻️ Eco Haul
 
-📖 Currently Learning
+Waste Management Platform
 
-- Dynamic Programming
+✔ Pickup Scheduling
+
+✔ Digital Waste Tracking
+
+✔ PHP + MySQL
+
+---
+
+## 📚 Book Summarizer
+
+AI Powered Book Summarizer
+
+✔ NLP
+
+✔ NodeJS
+
+✔ TypeScript
+
+✔ Tailwind CSS
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahlawatsejal&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlawatsejal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ahlawatsejal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlawatsejal&theme=tokyo-night"/>
+
+---
+
+# 🏆 Achievements
+
+🏅 Oracle Cloud Infrastructure AI Foundations Associate
+
+🏅 Oracle Data Platform Foundations Associate
+
+🏅 NPTEL Cloud Computing (Elite)
+
+🏅 MongoDB Associate Developer (In Progress)
+
+🏅 150+ LeetCode Problems Solved
+
+🏅 HackerRank 5⭐ in C++
+
+---
+
+# 📚 Currently Learning
+
 - System Design
-- Design Patterns
-- Backend Engineering
+- Dynamic Programming
+- Backend Architecture
 - Database Optimization
+- Docker
+- Kubernetes
 
+---
 
+# 🎯 Goals for 2026
 
-🏆 Certifications
+✅ Solve 300+ LeetCode Problems
 
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Oracle Data Platform Foundations Associate
-- NPTEL Cloud Computing (Elite)
-- MongoDB Associate Developer (In Progress)
+✅ Build Production Ready Projects
 
+✅ Contribute to Open Source
 
+✅ Learn Docker & Kubernetes
 
-🎯 Goals for 2026
+✅ Crack a Product-Based Company
 
-- Solve 300+ LeetCode problems
-- Contribute to Open Source
-- Build production-ready backend projects
-- Learn Docker & Kubernetes
-- Master System Design
-- Secure a Software Development Engineer role
+---
 
+## 💬 Quote
 
-🤝 Let's Connect
+> **"Good software isn't built by writing more code. It's built by solving the right problems."**
 
-📧 Email: sejalahlawat854@gmail.com
+---
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sejalahlawat
+<p align="center">
 
-💻 GitHub:
-https://github.com/ahlawatsejal
+⭐ From <a href="https://github.com/ahlawatsejal">Sejal Ahlawat</a>
 
-"The best way to learn software engineering is to keep building, keep breaking, and keep improving."
-
-<!--
-**ahlawatsejal/ahlawatsejal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
